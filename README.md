@@ -11,12 +11,14 @@
 - Покрытие кода юнит-тестами (unittest)
 
 ## Структура проекта
+```
 library_system_pet/
 ├── library.py        # основная логика
 ├── models.py         # классы LibraryItem, Book, Magazine
 ├── tests.py          # юнит-тесты
 ├── data.json         # база данных
 └── README.md
+```
 
 ## Запуск
 ```bash
